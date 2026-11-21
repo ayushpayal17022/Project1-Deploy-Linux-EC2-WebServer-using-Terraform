@@ -1,0 +1,133 @@
+{
+    "Vpcs": [
+        {
+            "OwnerId": "590507089733",
+            "InstanceTenancy": "default",
+            "CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "vpc-cidr-assoc-0ff8df6b81729f3de",
+                    "CidrBlock": "10.0.0.0/16",
+                    "CidrBlockState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "IsDefault": false,
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "web-vpc"
+                }
+            ],
+            "BlockPublicAccessStates": {
+                "InternetGatewayBlockMode": "off"
+            },
+            "VpcId": "vpc-08712dccc114af956",
+            "State": "available",
+            "CidrBlock": "10.0.0.0/16",
+            "DhcpOptionsId": "dopt-95e60bfc"
+        },
+        {
+            "OwnerId": "590507089733",
+            "InstanceTenancy": "default",
+            "CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "vpc-cidr-assoc-0b49837a3e28dd43c",
+                    "CidrBlock": "10.0.0.0/16",
+                    "CidrBlockState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "IsDefault": false,
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "capstone-vpc"
+                }
+            ],
+            "BlockPublicAccessStates": {
+                "InternetGatewayBlockMode": "off"
+            },
+            "VpcId": "vpc-0956bd4896225a585",
+            "State": "available",
+            "CidrBlock": "10.0.0.0/16",
+            "DhcpOptionsId": "dopt-95e60bfc"
+        },
+        {
+            "OwnerId": "590507089733",
+            "InstanceTenancy": "default",
+            "CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "vpc-cidr-assoc-0e6dc23229ee800a1",
+                    "CidrBlock": "10.0.0.0/22",
+                    "CidrBlockState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "IsDefault": false,
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Anmol-vpc"
+                }
+            ],
+            "BlockPublicAccessStates": {
+                "InternetGatewayBlockMode": "off"
+            },
+            "VpcId": "vpc-0f1553e8a87b1b2f4",
+            "State": "available",
+            "CidrBlock": "10.0.0.0/22",
+            "DhcpOptionsId": "dopt-95e60bfc"
+        },
+        {
+            "OwnerId": "590507089733",
+            "InstanceTenancy": "default",
+            "CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "vpc-cidr-assoc-09ba0bd987dc7d709",
+                    "CidrBlock": "10.0.0.0/16",
+                    "CidrBlockState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "IsDefault": false,
+            "BlockPublicAccessStates": {
+                "InternetGatewayBlockMode": "off"
+            },
+            "VpcId": "vpc-093e2ff7134e94610",
+            "State": "available",
+            "CidrBlock": "10.0.0.0/16",
+            "DhcpOptionsId": "dopt-95e60bfc"
+        },
+        {
+            "OwnerId": "590507089733",
+            "InstanceTenancy": "default",
+            "CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "vpc-cidr-assoc-0dff97efeb56e7458",
+                    "CidrBlock": "10.0.0.0/24",
+                    "CidrBlockState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "IsDefault": false,
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "AWS_SysOps-TrainingVPC"
+                }
+            ],
+            "BlockPublicAccessStates": {
+                "InternetGatewayBlockMode": "off"
+            },
+            "VpcId": "vpc-0592cb2ddcc9797a5",
+            "State": "available",
+            "CidrBlock": "10.0.0.0/24",
+            "DhcpOptionsId": "dopt-95e60bfc"
+        }
+    ]
+}
